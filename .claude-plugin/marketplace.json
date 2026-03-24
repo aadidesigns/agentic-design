@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "agentic-design-workflow",
-      "source": ".",
+      "source": "./",
       "description": "A token-optimised, gate-driven design automation system with four specialised agents, human approval gates, and Figma MCP integration."
     }
   ]
