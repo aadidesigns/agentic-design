@@ -1,0 +1,23 @@
+{
+  "name": "agentic-design-workflow",
+  "description": "A token-optimised, gate-driven design automation system. Four specialised agents orchestrate planning, Figma implementation, React builds, and QA — with human approval at every step.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aaditya Basnyat"
+  },
+  "homepage": "https://aaditya.design",
+  "repository": "https://github.com/aadidesigns/agentic-design",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "figma",
+    "react",
+    "ux",
+    "design-system",
+    "automation",
+    "qa"
+  ],
+  "agents": [
+    "./agents/design-planner.md"
+  ]
+}

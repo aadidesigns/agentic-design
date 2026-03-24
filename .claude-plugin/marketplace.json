@@ -1,0 +1,16 @@
+{
+  "name": "aadidesigns",
+  "owner": {
+    "name": "Aaditya Basnyat"
+  },
+  "metadata": {
+    "description": "Design automation plugins by Aaditya Basnyat"
+  },
+  "plugins": [
+    {
+      "name": "agentic-design-workflow",
+      "source": ".",
+      "description": "A token-optimised, gate-driven design automation system with four specialised agents, human approval gates, and Figma MCP integration."
+    }
+  ]
+}
